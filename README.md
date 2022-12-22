@@ -27,7 +27,7 @@ git clone https://github.com/Namejess/jeu_du_plus_ou_du_moins.git
 2. Accédez au répertoire du projet en utilisant la commande suivante :
 
 ```
-cd jeu_du_plus_ou_du_moins 
+cd .\jeu_du_plus_ou_du_moins\
 ```
 3. Compilez le code source en utilisant la commande suivante :
 
