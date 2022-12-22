@@ -13,7 +13,7 @@ Ce projet a été réalisé dans le cadre de l'apprentissage du langage de progr
 Pour jouer au jeu du plus ou moins, vous avez besoin de :
 
 - Un ordinateur exécutant un système d'exploitation supportant Rust (Linux, MacOS, Windows)
-- La version la plus récente de Rust installée sur votre ordinateur (consultez la [page de téléchargement de Rust](https://www.rust-lang.org/tools/install pour plus d'informations)
+- La version la plus récente de Rust installée sur votre ordinateur (consultez la [page de téléchargement de Rust](https://www.rust-lang.org/tools/install pour plus d'informations))
 
 ## Installation et lancement
 
