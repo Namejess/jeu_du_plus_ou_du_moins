@@ -22,7 +22,7 @@ Pour jouer au jeu du plus ou moins, suivez les étapes suivantes :
 1. Clonez ce dépôt Git sur votre ordinateur en utilisant la commande suivante :
 
 ```
-git clone git@github.com:Namejess/jeu_du_plus_ou_du_moins.git
+git clone https://github.com/Namejess/jeu_du_plus_ou_du_moins.git
 ```
 2. Accédez au répertoire du projet en utilisant la commande suivante :
 
