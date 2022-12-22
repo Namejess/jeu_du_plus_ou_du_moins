@@ -1,3 +1,17 @@
+
+[![GitHub release](https://img.shields.io/github/release/Namejess/jeu_du_plus_ou_du_moins?include_prereleases=&sort=semver&color=blue)](https://github.com/Namejess/jeu_du_plus_ou_du_moins/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![Language](https://img.shields.io/badge/License-MIT-blue)](#Rust)
+
+<div align="center">
+
+
+
+
+
+</div>
+
+
 # Jeu du plus ou moins
 
 Bienvenue dans le jeu du plus ou moins réalisé avec le langage de programmation Rust !
@@ -13,6 +27,7 @@ Ce projet a été réalisé dans le cadre de l'apprentissage du langage de progr
 Pour jouer au jeu du plus ou moins, vous avez besoin de :
 
 - Un ordinateur exécutant un système d'exploitation supportant Rust (Linux, MacOS, Windows)
+- L'installation de [Visual Studio Build Tools](https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/ ) (ajouter les outils de développement C++)
 - La version la plus récente de Rust installée sur votre ordinateur (consultez la [page de téléchargement de Rust](https://www.rust-lang.org/tools/install) pour plus d'informations)
 
 ## Installation et lancement
@@ -41,3 +56,7 @@ cargo build
 cargo run
 ```
 
+
+## License
+
+Released under [MIT](/LICENSE) by [@Namejess](https://github.com/Namejess).
