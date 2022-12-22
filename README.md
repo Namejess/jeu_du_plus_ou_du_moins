@@ -1,5 +1,5 @@
 
-[![GitHub release](https://img.shields.io/github/release/Namejess/jeu_du_plus_ou_du_moins?include_prereleases=&sort=semver&color=blue)](https://github.com/Namejess/jeu_du_plus_ou_du_moins/releases/)
+
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![Language - Rust](https://img.shields.io/badge/Language-Rust-2ea44f)](https://www.rust-lang.org)
 
